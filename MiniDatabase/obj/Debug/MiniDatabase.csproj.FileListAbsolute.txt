@@ -1,0 +1,15 @@
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.exe.config
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.exe
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.pdb
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.csprojResolveAssemblyReference.cache
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.exe
+c:\users\alihan\documents\visual studio 2013\Projects\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.pdb
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.exe.config
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.exe
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.pdb
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.exe
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\bin\Debug\MiniDatabase.pdb
+A:\Users\emre\Desktop\MiniDatabase\MiniDatabase\obj\Debug\MiniDatabase.csprojResolveAssemblyReference.cache
+A:\Users\emre\Documents\GitHub\Minidatabase\MiniDatabase\bin\Debug\MiniDatabase.exe.config
+A:\Users\emre\Documents\GitHub\Minidatabase\MiniDatabase\obj\Debug\MiniDatabase.exe
+A:\Users\emre\Documents\GitHub\Minidatabase\MiniDatabase\obj\Debug\MiniDatabase.pdb
